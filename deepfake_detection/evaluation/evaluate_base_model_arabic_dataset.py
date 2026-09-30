@@ -3,24 +3,6 @@
 Evaluate the original deepfake-audio model on the Arabic deepfake dataset
 before fine-tuning.
 
-Clean GitHub version of the original Colab notebook.
-
-Expected dataset structure:
-dataset_root/
-├── train/
-│   ├── real/
-│   └── fake/
-├── val/
-│   ├── real/
-│   └── fake/
-├── test/
-│   ├── real/
-│   └── fake/
-└── final_eval/
-    ├── real/
-    └── fake/
-
-No Google Drive, Colab, or personal paths are used.
 """
 
 import argparse
