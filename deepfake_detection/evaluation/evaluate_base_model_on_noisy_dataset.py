@@ -2,10 +2,7 @@
 """
 Evaluate the original deepfake-audio model before fine-tuning.
 
-Clean GitHub version of the original Colab notebook used for the
-project deepfake dataset evaluation.
 
-No Google Drive, Colab, or personal paths are used.
 """
 
 import argparse
